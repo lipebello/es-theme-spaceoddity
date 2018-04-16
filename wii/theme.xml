@@ -1,0 +1,36 @@
+<theme>
+	
+	<formatVersion>4</formatVersion>
+	<include>./../theme.xml</include>
+	
+	<view name="system">
+	
+	<image name="logo">
+    <path>./logo.png</path>
+	</image>
+	
+	<image name="console" extra="true">
+	<path>./console.png</path>
+	<origin>0 0</origin>
+	<color>FFFFFF</color>
+	<pos>0 0</pos>
+	<size>1 1</size>
+	<zIndex>70</zIndex>
+	</image>
+	
+	</view>
+	
+	<view name="basic, detailed, video, grid">
+	
+	<image name="logo">
+    <path>./logo.png</path>
+	<color>FFFFFF</color>
+	<origin>0 0</origin>
+	<pos>0.01 0.01</pos>
+	<maxSize>.34 .18</maxSize>
+	<zIndex>90</zIndex>
+	</image>
+	
+	</view>
+	
+</theme>
