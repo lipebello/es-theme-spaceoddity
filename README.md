@@ -5,3 +5,5 @@ I want to thank all people that came to me and show support after all the harass
 Lastly, i don't know if or when i'll return to the community (as a maker, i'm still around helping people).
 
 Thank you all!
+
+It is forbidden to edit content without prior authorization and use in any kind of commercial way
